@@ -49,11 +49,9 @@ button:hover {
     background-color: #0056b3;
 }
 
-#form-feedback {
-    margin-top: 10px;
-    padding: 10px;
-    color: #d8000c;
-    background-color: #ffbaba;
-    border-radius: 4px;
-    display: none; /* Initially hide the feedback div */
-}
+ #form-feedback {
+     display: none;
+     padding: 10px;
+     margin-top: 10px;
+     border-radius: 5px;
+ }
